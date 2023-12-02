@@ -4,4 +4,4 @@
 - 2x 40mm fan
 
 # Printed Files
-You need both board mounts for your respective board and either the left or right fan duct(left duct covers the 6 left drivers of the board, right eh 6 right)
+You need both board mounts for your respective board and either the left or right fan duct(left_6 duct covers the 6 left drivers of the board, right_6 the 6 right and left_7 the 7 left slots, choose according to your driver configuration)
